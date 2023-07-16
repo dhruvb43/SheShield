@@ -3,7 +3,9 @@ SheShield: Empowering women's safety with quick triggers, location sharing, and 
 
 For, 
 Frontend: XML 
+
 Backend: Java 
+
 Figma link: https://www.figma.com/file/MsK1BzshstBBczPwbxz8jy/SheShield?type=design&mode=design&t=lSLEzV0Hreh3uW20-1
 
 This repository contains an Android application built to enhance women's safety. The application includes a trigger function that can be activated through various methods such as phone shake, triple click power button, or by speaking "help, help, help." When triggered, the application sends the user's location, along with a few random pictures and recorded audio, to pre-defined emergency contacts, including family members and the nearest police station.
