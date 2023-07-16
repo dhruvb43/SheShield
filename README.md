@@ -12,3 +12,10 @@ The application is built using Java in Android Studio and leverages the device's
 ```bash
   git clone https://github.com/kalios-01/SheShield
 ```
+## Features
+
+- Access through Voice
+- Access through triple click power button
+- Access by phone shake
+- You can Send Data like [Images,Audio,Locations]
+- Receive the SoS In Massage,E-mail,Call
