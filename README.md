@@ -19,5 +19,8 @@ The application is built using Java in Android Studio and leverages the device's
 - Access through Voice
 - Access through triple click power button
 - Access by phone shake
-- You can Send Data like [Images,Audio,Locations]
-- Receive the SoS In Massage,E-mail,Call
+- You can Send Data like [Images,Audio, Locations]
+- Receive the SoS In Massage, E-mail,Call
+- One may send emergency alerts to relatives and friends, as well as contact neighboring fire, police, and ambulance services.
+- When the user taps the PANIC button, messages will be sent to up to 5 main contacts, regardless of their phone model.
+
